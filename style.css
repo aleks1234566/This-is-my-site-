@@ -6,12 +6,10 @@ header{
     background-color: burlywood;
 }
 
-h1 img {
-     
-    width: 150px;
-    height: 150px;
+ h1{
+    font-size: 50px;
+    text-align: center;
 }
-
 p {
     font-size: 20px;
 }
@@ -33,9 +31,9 @@ p img{
     width: 100px;
     height:100px;
 } 
-h1{
-    font-size: 50px;
-    text-align: center;
+ h1 img {
+     
+    width: 150px;
+    height: 150px;
 }
-
  
